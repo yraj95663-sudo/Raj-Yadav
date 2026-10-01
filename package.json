@@ -1,0 +1,13 @@
+{
+  "name": "toxic-panel",
+  "version": "1.0.0",
+  "description": "Raj X Panel - Device Management Console",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "vercel",
+    "dev": "echo 'Just open index.html in browser'"
+  },
+  "keywords": ["vercel", "html", "panel"],
+  "author": "Raj",
+  "license": "ISC"
+}
